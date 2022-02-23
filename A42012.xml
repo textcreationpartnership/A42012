@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A voice of comfort sounded forth and sent into the world to all the mourners in Zion who are born of the birth immortal wherein is declared the purpose of the living God concerning the righteous and the wicked / by Tho. Green.</title>
+            <author>Greene, Thomas, 1634?-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42012</idno>
+            <idno type="STC">Wing G1847</idno>
+            <idno type="STC">ESTC R28047</idno>
+            <idno type="EEBO-CITATION">10334288</idno>
+            <idno type="OCLC">ocm 10334288</idno>
+            <idno type="VID">44902</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42012)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44902)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1385:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A voice of comfort sounded forth and sent into the world to all the mourners in Zion who are born of the birth immortal wherein is declared the purpose of the living God concerning the righteous and the wicked / by Tho. Green.</title>
+                  <author>Greene, Thomas, 1634?-1699.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44902:1"/>
+            <pb facs="tcp:44902:1" rendition="simple:additions"/>
+            <p>A Voice of Comfort <hi>Sounded forth, and ſent into the World</hi> To all the MOURNERS <hi>IN</hi> ZION, Who are born of the Birth Immortal: <hi>WHEREIN</hi> Is declared the Purpoſe of the Living God, Concerning the Righteous and the Wicked.</p>
+            <p>By a Friend of Zions Seed, <hi>Tho. Green.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:44902:2"/>
+            <pb n="3" facs="tcp:44902:2" rendition="simple:additions"/>
+            <head>A Voice of Comfort ſounded forth, &amp;c.</head>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>WHO are the beloved of the Lord, (who are called by ſcorners <hi>Quakers</hi>) you the Lord hath bleſſed and often viſited, and hath called you out of darkneſs and hath brought many of you out of Captivity from under Sa<g ref="char:EOLhyphen"/>thans power to experience his goodneſs in the Light and Life of his Son Chriſt Jeſus; and ſince the day of his firſt Viſitation and turning of us unto himſelf, he hath never left us, though he hath ſuffered many to be deeply tryed, ſome by ſtripings, bruiſings, woundings, impriſonments, baniſhment, and death, and in all theſe things he hath been a God nigh at hand, to bear up and ſup<g ref="char:EOLhyphen"/>port the weakeſt child that he hath called to bear teſtimony to his name; in the ſix troubles he hath not left them, nor in the ſeventh he will not fail: Oh you dear and pretious Sons and Daughters of Zion, your birth is from Eternity, &amp; your ſtrength is from the mighty one who is the Being of Beings, who doth whatſoever pleaſeth him; Oh my heart is in love with you, and my life dwelleth among you, and as concerning ye, my heart hath been ponderous with my God, and my ſpirit hath cryed, where<g ref="char:EOLhyphen"/>withal ſhall <hi>Jacob</hi> be raiſed up, and Zions Mourners be comfor<g ref="char:EOLhyphen"/>ted, and this hath been anſwered in my heart from the Lord in the feeling of his love, and of his dreadful Preſence, ſaying, Fear not oh Daughter of Zion ſince the day of thy birth and nativity I have borne thee up and nouriſhed thee as a little Child, and led thee as a tender one, and my eye of pitty hath been upon thee, and I have entered into Covenant with thee, and I am God that never changeth, and I will never leave thee nor forſake thee.</p>
+            <p>And this further is the purpoſe of the Lord concerning thee oh thou afflicted one, and diſconſolated Child, who art ready to ſay within thy ſelf why doth the Lord take away the righteous with the wicked, and remove the Innocent from the Earth in
+<pb n="4" facs="tcp:44902:3"/>this Contagion, and take away ſome of the faithful People, who have put their whole truſt in him, and have choſen the Lord to be their God, and that have no hope nor expectation of com<g ref="char:EOLhyphen"/>fort but only from the Lord; and becauſe of this I and many a weak one are ſhaken in our minds, becauſe we ſee the wicked boaſt and rejoyce at the death of the Righteous, and holy people of the Lord; who triumph and ſay, the Lord is angry with them, for he cuts them off as he doth the wicked; and this grieveth me moſt of all becauſe they lift up their voice now and cry where is now your God? Oh thou tender and afflicted one, be not caſt down in thy mind, neither let thy heart be troubled, nor thy ſpirit within thee grieved, who haſt believed and received with joyfulneſs the appearance of Gods grace, and haſt been led there<g ref="char:EOLhyphen"/>by out of the wayes of the wicked into the way where the righte<g ref="char:EOLhyphen"/>ous walk, and meet with comfort and Heavenly refreſhments from the Lord of Life. <hi>Oh fear thou not thou tender one, for there is nothing ſhall befall thee but what is common to men, for the Lord hath made the World all of one Blood, and of fleſh which is as graſs which muſt die, and our bodies are mortal as well as others, but our life by which we live to the Lord is eternal, which life is more and more revealed to all that are begotten and born of the Immortal ſeed; but our life is hid with Chriſt in God from all who are in the firſt nature and know nothing of the Lord but what they know naturally, not being born again, nor crucified to the evils of this World by the power of Gods endleſs life;</hi> theſe knows not the end of the Righteous, nei<g ref="char:EOLhyphen"/>ther diſcerns the things of God, yet let the Righteous know, and the upright conſider that in all ages the Lord hath tryed his deareſt Servants, and hath weaned them from all Creature-en<g ref="char:EOLhyphen"/>joyments, and hath ſtripped them naked that he might cloath them with that Garment <hi>that never</hi> waxeth old, and feed them with that bread which nouriſheth to Eternity. Oh how did he try righteous <hi>Abraham,</hi> by requiring of him to offer up <hi>Iſaac,</hi> but his reward was known in the end: And how did he try <hi>Jacob</hi> with the parting from <hi>Benjamin,</hi> but <hi>Joſeph</hi> was found thereby: And how did he try <hi>Job</hi> with afflictions many wayes, unto whom dreadful tidings was brought, who ſaid, the Lord giveth, and the Lord taketh away, and bleſſed be his moſt holy name; And how did he try <hi>David, Daniel,</hi> and <hi>Jonah,</hi> and delivered them in the day of their diſtreſs, and was their comfort in the day of
+<pb n="5" facs="tcp:44902:3" rendition="simple:additions"/>affliction, and a covert for them in the day of Calamity.</p>
+            <p>Thus the Lord hath dealt with the faithful Prophets, Chriſt and the Apoſtles, and the wicked ſaid as at this day they do to Gods people, <hi>becauſe God is executing his determinate will, for it was ſaid to Jeſus, if thou be the Chriſt come down from the Croſs, and ſave thy ſelf and us;</hi> but he was obedient unto the death; and his Apoſtles they traveled in the way of the Lord, and lived ſo that they might finiſh their courſe with joy, they were beloved of the Lord, yet he ſuffered them to be tryed, and to be tribulated, and the meſſenger of Sathan they knew, a thorne in the fleſh they witneſſed, but he that prevails with God prayed that their Faith might not fail.</p>
+            <p>Thus did the Righteous in all ages; hear the rod and him that had appointed it, and learned obedience by the things that they ſuffered, and by the chaſtiſement of the Lord they were drawn nearer unto him, even as thoſe people in the dayes of old, who ſaid, other Lords hath had D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>minion over us, but now we will make mention of thy name, for thou art the Lord our God, and the Prophet ſaid, though thou kill me yet will I truſt in thee; and ſaid, though I go to the bottom of the Mountains there wilt thou find me; the Rocks nor Hills cannot hide me, neither can the ſtrength of Men nor Horſes deliver me; therefore will I remem<g ref="char:EOLhyphen"/>ber the years of the right hand of the moſt High, and while I have breath will praiſe his Name.</p>
+            <p>But oh ſaith the afflicted one! I have often taſted of the mer<g ref="char:EOLhyphen"/>cies of the Lord, and his goodneſs from day to day I have en<g ref="char:EOLhyphen"/>joyed ſince the time I received in his righteous Judgments againſt the Man of Sin, which was revealed by the brightneſs of the light of Chriſt Jeſus, that did ſhine in my heart, in an acceptable time, it was a day of comfort, &amp; ſince I have had hours of refreſh<g ref="char:EOLhyphen"/>ment from the Lord by which I have been eſtabliſhed: but that now the Lord ſhould take me and mine out of this World, this ſomtimes proves an exerciſe to my mind &amp; a grief unto my heart, and the more becauſe the wicked boaſt themſelves againſt God thereby: Oh thou tender one be not at this caſt down, for the Lord hath born long, but now is riſen as a Lion out of a thicket, he hath taken notice how the wicked hath oppreſſed the Righteous, and made a ſpoyle of the upright in heart; and how they have determined to baniſh them into far Countries, &amp; to force them in<g ref="char:EOLhyphen"/>to
+<pb n="6" facs="tcp:44902:4"/>vacant Iſlands, but they ſhall not have their end, for many ſhall dye in their own land, for now the Lord hath ſent the de<g ref="char:EOLhyphen"/>ſtroying Angel forth, and hath given him Commiſſion to reap the Earth, for the Lord himſelf will make the deciſſion, and the wheat he will gather into his garner, but the chaffe, and the tears, he will burn with unquenchable fire, and though the righ<g ref="char:EOLhyphen"/>teous dye, they dy in the Lord, and ſhall awake unto everlaſting life; but the wicked to ſhame and everlaſting contempt: And they that be wiſe ſaid <hi>Daniel</hi> ſhall ſhine as the brightneſs of the Firmament; and they that turn many to righteouſneſs as the Stars for ever and ever, for the Lord is judge himſelf who for<g ref="char:EOLhyphen"/>ſaketh not his Saints, they are preſerved for ever, but the ſeed of the wicked ſhall be cut off, who watcheth to ſlay the righteous; but the Lord will not leave him in his hand, nor condemn him when he is judged.</p>
+            <p>But they that have remembred their Creator in the dayes of their youth, and have remembred and conſidered their latter end, and have known the Spirit of the Lord to teach them to number their dayes, and that hath applyed their hearts to wiſe<g ref="char:EOLhyphen"/>dome, theſe ſhall reſt from their labours, and be bleſſed, who dye in the Lord, and ſhall live with him for evermore; there<g ref="char:EOLhyphen"/>fore none be troubled who have believed the report of truth, and have known the arme of the Lord revealed, and in the pati<g ref="char:EOLhyphen"/>ent Spirit dwells; And with old <hi>Ely,</hi> ſay it tis the Lord, let him doe what he will: for all thy thoughts, and cares will but trou<g ref="char:EOLhyphen"/>ble thee, and be a meanes to remove thee from thy reſt, and to draw thee from thy habitation.</p>
+            <p>Oh let theſe thy Tryals, and Tribulations have this effect in thy heart, that thou thereby may have patience and experience the Lords goodneſs every day; for aſſuredly all things ſhall work together for the good of them that fear and love the Lord; if all things be then the death of his Saints, and Servants, whoſe Names are written in the Lambs book of Life; who have de<g ref="char:EOLhyphen"/>lighted to follow him through the Regeneration; but the wick<g ref="char:EOLhyphen"/>ed will the Lord Plague in the furnace of his Fury, whoſe porti<g ref="char:EOLhyphen"/>on is appointed in the Lake prepared for the Devil and his An<g ref="char:EOLhyphen"/>gels: But he will ſay to the Righteous who delights to doe his will on Earth, <hi>Come yee bleſſed receive the Kingdom prepared for you;</hi> And to the wicked who hath delighted in wickedneſs upon the
+<pb n="7" facs="tcp:44902:4" rendition="simple:additions"/>face of the Earth, theſe are on the left hand Curſed, and are to goe into everlaſting Torments for evermore; but Gods Cove<g ref="char:EOLhyphen"/>nant ſtands ſure with the Righteous, and cannot be Altered, be<g ref="char:EOLhyphen"/>cauſe the Lord never changeth, therefore are <hi>his People</hi> not Con<g ref="char:EOLhyphen"/>ſumed by their many Enemies in the World: But further ſaith the tender hearted Childe of God, I have a weight and burden upon my heart to ſee Gods Judgements and his vials powering forth upon the Earth, and the Sea, and yet few layeth it to heart, many there be indeed that mourne becauſe of their ſor<g ref="char:EOLhyphen"/>row, yet they depart not from their ſin, neither turne from their Tranſgreſſions, which have been the very cauſe of Gods heavy Judgments: many are leight, and wanton, and live in pleaſure, (far from the ſtate of the people of <hi>Ninevy,</hi> who humbled them<g ref="char:EOLhyphen"/>ſelves from the Higheſt to the Loweſt) And had not I known ſomething of the goodneſs of the Lord, I ſhould Judge their ſtate better then mine: Oh therefore conſider thou afflicted one that this was the ſtate of <hi>David</hi> in the dayes of old, who ſaw the wicked in proſperity, and they had no bonds in their death; and their eyes ſtood out with fatneſs, they had more then heart could wiſh; but when he entred into the Sanctuary of the Lord, he conſidered their end; although he thought in time he had waſhed his hands in innocency, becauſe he was poor, and needy, and his heart was wounded within him, he ſaid, I depart like a ſhaddow that declineth, and am ſhaken off as the Graſhopper, my knees are weak through faſting, and my fleſh hath loſt all fat<g ref="char:EOLhyphen"/>neſs, I became a rebuke unto many; they that looked upon mee ſhaked their heads, yet for all this will I give thanks unto the Lord greatly with my mouth, and praiſe him among the multi<g ref="char:EOLhyphen"/>tude; for he will ſtand at the right hand of the poor to ſave him from them that would condemn his Soule.</p>
+            <p>And further ſaith the poor broaken hearted one, ſaying here is a cry with the ungodly, as dyeth the wicked ſo dyeth the righteous, and both have one event, It's true the natural bodyes of both dye, yet there is a great difference between the death of the righeteous, and the death of the wicked, for <hi>Balaam</hi> ſaid, Oh that he might dye the death of the righteous, and that his latter end might be like unto his: for he ſaw there was goodly dwelling in the tents of <hi>Jacob,</hi> and that the end of thoſe that a<g ref="char:EOLhyphen"/>bode therein would be pretious; becauſe the Righteous who have minded to follow the Lord in his Righteous Judgments, in
+<pb n="8" facs="tcp:44902:5"/>which, holineſs and purity they have learned; but the wicked have run from the Lord into wickedneſs; and have done diſpight to the Spirit of Grace, and hath loved pleaſures more then the Lord; and have <hi>ſaid as thoſe wicked ones in the dayes of old</hi> to Je<g ref="char:EOLhyphen"/>ſus the Lord of Life, <hi>Get thee out of our Coaſts,</hi> and as for the Lord, we deſire not the knowledg of his wayes, and for theſe <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this day, and at all times, it will be a fearfull thing to fall into the hands of the living God; for there is no peace to the wicked ſaith the Spirit of the Almighty, but the fruit of Righteouſneſs is peace to them that walk righteouſly, and the effect is quietneſs for evermore, this by the Spirit of the Lord is true and ſhall ſtand for ever: Therefore thou Childe of the living God feele the power of the endleſs life, to keep the heart in awe before the Lord out of the Reaſonings, and Conſullings, about thoſe things that may be ſeen with the natural eye; for the ſaving Power and Comforts of God is onely to be witneſſed within, by a ſinking down into the meaſure of Chriſt manifeſt in thy mor<g ref="char:EOLhyphen"/>tal fleſh, then thou wilt know the Lords Chriſt to rule in thy heart who brings glad tidings, and publiſheth peace, and brings Sol<g ref="char:EOLhyphen"/>vation, and ſaith in the Daughter of Zion thy God Reigneth; this was he that <hi>SIMEON</hi> waited for, it being revealed unto him, that he ſhould not taſte death till he had ſeen the Lords Chriſt; And when this was accompliſhed he ſaid now let thy ſervant depart in peace according to thy word, for my eyes hath ſeen thy Salvation.</p>
+            <p>So thou that haſt had that Spiritual eye oppened whereby thou haſt ſeen, and taſted of the good word of God; look not out at the works which the Lord is working in the Earth; and the deſolation that he is making among the Sons of men, (but remember <hi>Dinah</hi> who went out, and came in raviſhed) ſo keep cloſe in the pure ſeed of life, in which thou wilt ſee all things poſſible with the Lord; and by his own works he will be glo<g ref="char:EOLhyphen"/>rified, and by his power and judgments he will be known to all Nations. So bleſſed art thou that lyeth down in the Kingdom and Patience of Jeſus. The Grace of the Lord Jeſus Chriſt be with you, and his Peace reſt upon you for ever-more.</p>
+            <closer>
+               <dateline>
+                  <date>7<hi rend="sup">th</hi> Month 14<hi rend="sup">th</hi> 1665.</date>
+               </dateline>
+               <signed>Given forth in the bowel<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of love and good will to all the Children of the Lord, by your Companion in tribulation and re<g ref="char:EOLhyphen"/>joycing. <hi>T. G.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:44902:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
